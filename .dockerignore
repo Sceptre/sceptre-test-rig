@@ -1,0 +1,8 @@
+__pycache__
+.git
+*.md
+codeship*
+*.encrypted
+Dockerfile*
+*.env
+*.aes
