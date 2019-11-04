@@ -1,0 +1,3 @@
+template_path: templates/cache.yaml
+dependencies:
+  - network/network.yaml

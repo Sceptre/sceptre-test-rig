@@ -1,0 +1,5 @@
+template_path: templates/backend.yaml
+dependencies:
+  - network/network.yaml
+  - database/db.yaml
+  - database/cache.yaml

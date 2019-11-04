@@ -1,0 +1,3 @@
+template_path: templates/frontend.yaml
+dependencies:
+  - network/network.yaml

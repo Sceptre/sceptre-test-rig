@@ -1,0 +1,3 @@
+template_path: templates/db.yaml
+dependencies:
+  - network/network.yaml
